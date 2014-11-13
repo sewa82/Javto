@@ -1,2 +1,10 @@
-bin
-.metadata 
+# Eclipse
+.metadata
+.loadpath
+.settings/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
